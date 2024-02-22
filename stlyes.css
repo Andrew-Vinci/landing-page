@@ -1,0 +1,31 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header-container{
+    color:white;
+    background-color: #1F2937;
+    padding: 20px 0;
+    display: flex;
+    justify-content: center;
+}
+
+.header{
+    width: 1200px;
+    display: flex;
+    justify-content:space-between;
+    font-size: 24px;
+    font-family: #F9FAF8;
+}
+
+
+.header-links{
+    display: flex;
+    justify-content:flex-end;
+    gap: 25px;
+    font-size: 18px;
+    font-family: #E5E7EB;
+}
