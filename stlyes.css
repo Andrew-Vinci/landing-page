@@ -29,3 +29,43 @@
     font-size: 18px;
     font-family: #E5E7EB;
 }
+
+
+
+
+.main-content-container{
+    color: white;
+    background-color:cadetblue;
+    padding: 20px 0;
+    display: flex;
+    justify-content: center;
+    gap: 300px;
+}
+
+.mc-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 25px;
+}
+
+.mc-container .mc-h1{
+    font-size: 48px;
+    font-family: #F9FAF8;
+    font-weight:bolder;
+}
+
+.mc-container .mc-text{
+    font-size: 18px;
+    font-family: #E5E7Eb;
+    font-weight:bolder;
+}
+
+.mc-container .mc-button{
+    color: white;
+    background-color:#3882F6;
+    align-items: flex-start;
+    width: auto;
+    padding: 10px 20px;
+}
