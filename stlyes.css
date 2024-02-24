@@ -30,6 +30,10 @@
     font-family: #E5E7EB;
 }
 
+.header-links a{
+    color: white;
+}
+
 
 
 
@@ -38,7 +42,7 @@
 
 .main-content-container{
     color: white;
-    background-color:darkblue;
+    background-color: royalblue;
     padding: 20px 0;
     display: flex;
     justify-content: center;
@@ -107,7 +111,7 @@
     height: 150px;
     margin: 20px;
     border: 4px solid lightblue;
-    background: darkblue;
+    background: royalblue;
 }
 
 .img-title{
@@ -145,7 +149,7 @@
 
 
 .signup-container{
-    background-color: darkblue;
+    background-color: royalblue;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -195,5 +199,9 @@
     gap: 25px;
     font-size: 18px;
     font-family: #E5E7EB;
+}
+
+.footer-links a{
+    color: white;
 }
 
